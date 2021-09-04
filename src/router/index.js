@@ -8,11 +8,10 @@ import Checkout from "@/views/Checkout";
 import Contact from "@/views/Contact";
 import ProductSingle from "@/views/ProductSingle";
 import Services from "@/views/Services";
-import Shop from "@/views/Shop";
 import Blog from "@/views/blog/Blog";
 import BlogSingle from "@/views/blog/BlogSingle";
 
-import { initialize } from "@/plugins/externalInitializer";
+import { initialize, initMap } from "@/plugins/externalInitializer";
 
 Vue.use(VueRouter);
 
@@ -62,11 +61,6 @@ const routes = [
     component: Services,
   },
   {
-    name: "Shop",
-    path: "/shop",
-    component: Shop,
-  },
-  {
     name: "Blog",
     path: "/blog",
     component: Blog,
@@ -83,8 +77,12 @@ const router = new VueRouter({
   routes,
 });
 
-router.afterEach(() => {
+router.afterEach((to) => {
   initialize();
+  if (to.name === "Home" || to.name === "Contact") {
+    console.log("init map")
+    initMap();
+  }
   window.scrollTo(0, 0);
 });
 

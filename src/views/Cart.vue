@@ -40,83 +40,11 @@
                   </tr>
                 </thead>
                 <tbody>
-                  <tr class="text-center">
-                    <td class="product-remove">
-                      <a href="#"><span class="icon-close"></span></a>
-                    </td>
-
-                    <td class="image-prod">
-                      <div
-                        class="img"
-                        style="background-image: url(images/menu-2.jpg)"
-                      ></div>
-                    </td>
-
-                    <td class="product-name">
-                      <h3>Creamy Latte Coffee</h3>
-                      <p>
-                        Far far away, behind the word mountains, far from the
-                        countries
-                      </p>
-                    </td>
-
-                    <td class="price">$4.90</td>
-
-                    <td class="quantity">
-                      <div class="input-group mb-3">
-                        <input
-                          type="text"
-                          name="quantity"
-                          class="quantity form-control input-number"
-                          value="1"
-                          min="1"
-                          max="100"
-                        />
-                      </div>
-                    </td>
-
-                    <td class="total">$4.90</td>
-                  </tr>
-                  <!-- END TR-->
-
-                  <tr class="text-center">
-                    <td class="product-remove">
-                      <a href="#"><span class="icon-close"></span></a>
-                    </td>
-
-                    <td class="image-prod">
-                      <div
-                        class="img"
-                        style="background-image: url(images/dish-2.jpg)"
-                      ></div>
-                    </td>
-
-                    <td class="product-name">
-                      <h3>Grilled Ribs Beef</h3>
-                      <p>
-                        Far far away, behind the word mountains, far from the
-                        countries
-                      </p>
-                    </td>
-
-                    <td class="price">$15.70</td>
-
-                    <td class="quantity">
-                      <div class="input-group mb-3">
-                        <input
-                          type="text"
-                          name="quantity"
-                          class="quantity form-control input-number"
-                          value="1"
-                          min="1"
-                          max="100"
-                        />
-                      </div>
-                    </td>
-
-                    <td class="total">$15.70</td>
-                  </tr>
-                  <!-- END TR-->
+                  <CartProductitem
+                    v-for="item in $store.state.cart"
+                    :key="item.id"
+                    :product="item"
+                  />
                 </tbody>
               </table>
             </div>
@@ -128,7 +56,7 @@
               <h3>Cart Totals</h3>
               <p class="d-flex">
                 <span>Subtotal</span>
-                <span>$20.60</span>
+                <span>${{ subtotal.toFixed(2) }}</span>
               </p>
               <p class="d-flex">
                 <span>Delivery</span>
@@ -136,17 +64,20 @@
               </p>
               <p class="d-flex">
                 <span>Discount</span>
-                <span>$3.00</span>
+                <span>$0.00</span>
               </p>
               <hr />
               <p class="d-flex total-price">
                 <span>Total</span>
-                <span>$17.60</span>
+                <span>${{ subtotal.toFixed(2) }}</span>
               </p>
             </div>
             <p class="text-center">
-              <a href="checkout.html" class="btn btn-primary py-3 px-4"
-                >Proceed to Checkout</a
+              <router-link
+                tag="a"
+                to="Checkout"
+                class="btn btn-primary py-3 px-4"
+                >Proceed to Checkout</router-link
               >
             </p>
           </div>
@@ -154,112 +85,139 @@
       </div>
     </section>
 
-    <section class="ftco-section">
-      <div class="container">
-        <div class="row justify-content-center mb-5 pb-3">
-          <div class="col-md-7 heading-section ftco-animate text-center">
-            <span class="subheading">Discover</span>
-            <h2 class="mb-4">Related products</h2>
-            <p>
-              Far far away, behind the word mountains, far from the countries
-              Vokalia and Consonantia, there live the blind texts.
-            </p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-3">
-            <div class="menu-entry">
-              <a
-                href="#"
-                class="img"
-                style="background-image: url(images/menu-1.jpg)"
-              ></a>
-              <div class="text text-center pt-4">
-                <h3><a href="#">Coffee Capuccino</a></h3>
-                <p>
-                  A small river named Duden flows by their place and supplies
-                </p>
-                <p class="price"><span>$5.90</span></p>
-                <p>
-                  <a href="#" class="btn btn-primary btn-outline-primary"
-                    >Add to Cart</a
-                  >
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3">
-            <div class="menu-entry">
-              <a
-                href="#"
-                class="img"
-                style="background-image: url(images/menu-2.jpg)"
-              ></a>
-              <div class="text text-center pt-4">
-                <h3><a href="#">Coffee Capuccino</a></h3>
-                <p>
-                  A small river named Duden flows by their place and supplies
-                </p>
-                <p class="price"><span>$5.90</span></p>
-                <p>
-                  <a href="#" class="btn btn-primary btn-outline-primary"
-                    >Add to Cart</a
-                  >
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3">
-            <div class="menu-entry">
-              <a
-                href="#"
-                class="img"
-                style="background-image: url(images/menu-3.jpg)"
-              ></a>
-              <div class="text text-center pt-4">
-                <h3><a href="#">Coffee Capuccino</a></h3>
-                <p>
-                  A small river named Duden flows by their place and supplies
-                </p>
-                <p class="price"><span>$5.90</span></p>
-                <p>
-                  <a href="#" class="btn btn-primary btn-outline-primary"
-                    >Add to Cart</a
-                  >
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3">
-            <div class="menu-entry">
-              <a
-                href="#"
-                class="img"
-                style="background-image: url(images/menu-4.jpg)"
-              ></a>
-              <div class="text text-center pt-4">
-                <h3><a href="#">Coffee Capuccino</a></h3>
-                <p>
-                  A small river named Duden flows by their place and supplies
-                </p>
-                <p class="price"><span>$5.90</span></p>
-                <p>
-                  <a href="#" class="btn btn-primary btn-outline-primary"
-                    >Add to Cart</a
-                  >
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+<!--    <section class="ftco-section">-->
+<!--      <div class="container">-->
+<!--        <div class="row justify-content-center mb-5 pb-3">-->
+<!--          <div class="col-md-7 heading-section ftco-animate text-center">-->
+<!--            <span class="subheading">Discover</span>-->
+<!--            <h2 class="mb-4">Related products</h2>-->
+<!--            <p>-->
+<!--              Far far away, behind the word mountains, far from the countries-->
+<!--              Vokalia and Consonantia, there live the blind texts.-->
+<!--            </p>-->
+<!--          </div>-->
+<!--        </div>-->
+<!--        <div class="row">-->
+<!--          <div class="col-md-3">-->
+<!--            <div class="menu-entry">-->
+<!--              <a-->
+<!--                -->
+<!--                class="img"-->
+<!--                style="background-image: url(images/menu-1.jpg)"-->
+<!--              ></a>-->
+<!--              <div class="text text-center pt-4">-->
+<!--                <h3><a >Coffee Capuccino</a></h3>-->
+<!--                <p>-->
+<!--                  A small river named Duden flows by their place and supplies-->
+<!--                </p>-->
+<!--                <p class="price"><span>$5.90</span></p>-->
+<!--                <p>-->
+<!--                  <a  class="btn btn-primary btn-outline-primary"-->
+<!--                    >Add to Cart</a-->
+<!--                  >-->
+<!--                </p>-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          </div>-->
+<!--          <div class="col-md-3">-->
+<!--            <div class="menu-entry">-->
+<!--              <a-->
+<!--                -->
+<!--                class="img"-->
+<!--                style="background-image: url(images/menu-2.jpg)"-->
+<!--              ></a>-->
+<!--              <div class="text text-center pt-4">-->
+<!--                <h3><a >Coffee Capuccino</a></h3>-->
+<!--                <p>-->
+<!--                  A small river named Duden flows by their place and supplies-->
+<!--                </p>-->
+<!--                <p class="price"><span>$5.90</span></p>-->
+<!--                <p>-->
+<!--                  <a  class="btn btn-primary btn-outline-primary"-->
+<!--                    >Add to Cart</a-->
+<!--                  >-->
+<!--                </p>-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          </div>-->
+<!--          <div class="col-md-3">-->
+<!--            <div class="menu-entry">-->
+<!--              <a-->
+<!--                -->
+<!--                class="img"-->
+<!--                style="background-image: url(images/menu-3.jpg)"-->
+<!--              ></a>-->
+<!--              <div class="text text-center pt-4">-->
+<!--                <h3><a >Coffee Capuccino</a></h3>-->
+<!--                <p>-->
+<!--                  A small river named Duden flows by their place and supplies-->
+<!--                </p>-->
+<!--                <p class="price"><span>$5.90</span></p>-->
+<!--                <p>-->
+<!--                  <a  class="btn btn-primary btn-outline-primary"-->
+<!--                    >Add to Cart</a-->
+<!--                  >-->
+<!--                </p>-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          </div>-->
+<!--          <div class="col-md-3">-->
+<!--            <div class="menu-entry">-->
+<!--              <a-->
+<!--                -->
+<!--                class="img"-->
+<!--                style="background-image: url(images/menu-4.jpg)"-->
+<!--              ></a>-->
+<!--              <div class="text text-center pt-4">-->
+<!--                <h3><a >Coffee Capuccino</a></h3>-->
+<!--                <p>-->
+<!--                  A small river named Duden flows by their place and supplies-->
+<!--                </p>-->
+<!--                <p class="price"><span>$5.90</span></p>-->
+<!--                <p>-->
+<!--                  <a  class="btn btn-primary btn-outline-primary"-->
+<!--                    >Add to Cart</a-->
+<!--                  >-->
+<!--                </p>-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          </div>-->
+<!--        </div>-->
+<!--      </div>-->
+<!--    </section>-->
   </div>
 </template>
 
 <script>
+import CartProductitem from "@/components/CartProductitem";
 export default {
   name: "Cart",
+  components: { CartProductitem },
+  data() {
+    return {
+      subtotal: 0,
+    };
+  },
+  methods: {
+    calculateTotal() {
+      this.subtotal = this.$store.state.cart.reduce((a, b) => {
+        return (Math.round((a + b.price * b.count) * 100) / 100);
+      }, 0);
+    },
+  },
+  mounted() {
+    this.calculateTotal();
+  },
+  created() {
+    this.unsubscribe = this.$store.subscribe((mutation) => {
+      if (mutation.type === "updateCart") {
+        this.calculateTotal();
+      }
+    });
+  },
+  beforeDestroy() {
+    this.unsubscribe();
+  },
 };
 </script>
 

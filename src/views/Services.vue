@@ -14,7 +14,7 @@
             <div class="col-md-7 col-sm-12 text-center ftco-animate">
               <h1 class="mb-3 mt-5 bread">Services</h1>
               <p class="breadcrumbs">
-                <span class="mr-2"><a href="index.html">Home</a></span>
+                <span class="mr-2"><router-link :to="{name: 'Home'}" tag="a">Home</router-link></span>
                 <span>Services</span>
               </p>
             </div>
@@ -84,7 +84,7 @@
                 <span class="flaticon-coffee-bean"></span>
               </div>
               <div class="media-body">
-                <h3 class="heading">Quality Coffee</h3>
+                <h3 class="heading">Quality Food</h3>
                 <p>
                   Even the all-powerful Pointing has no control about the blind
                   texts it is an almost unorthographic.

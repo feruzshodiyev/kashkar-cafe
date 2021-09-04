@@ -197,8 +197,6 @@ AOS.init({
   counter();
 
   var contentWayPoint = function () {
-    console.log("direction!!!!")
-    var i = 0;
     $(".ftco-animate").waypoint(
       function (direction) {
 
@@ -206,8 +204,6 @@ AOS.init({
           direction === "down" &&
           !$(this.element).hasClass("ftco-animated")
         ) {
-          i++;
-          console.log(i);
           $(this.element).addClass("item-animate");
           setTimeout(function () {
             $("body .ftco-animate.item-animate").each(function (k) {
@@ -232,11 +228,9 @@ AOS.init({
             });
           }, 100);
         }
-        console.log("direction!!!!--", direction)
       },
       { offset: "95%" }
     );
-    console.log("direction!!!!-")
   };
   contentWayPoint();
 
