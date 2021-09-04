@@ -77,20 +77,20 @@
               >Services</a
             >
           </router-link>
-          <router-link
-            tag="li"
-            active-class="active"
-            :to="{ name: 'Blog' }"
-            class="nav-item"
-          >
-            <a
-              data-toggle="collapse"
-              data-target="#ftco-nav"
-              role="button"
-              class="nav-link"
-              >Blog</a
-            >
-          </router-link>
+          <!--          <router-link-->
+          <!--            tag="li"-->
+          <!--            active-class="active"-->
+          <!--            :to="{ name: 'Blog' }"-->
+          <!--            class="nav-item"-->
+          <!--          >-->
+          <!--            <a-->
+          <!--              data-toggle="collapse"-->
+          <!--              data-target="#ftco-nav"-->
+          <!--              role="button"-->
+          <!--              class="nav-link"-->
+          <!--              >Blog</a-->
+          <!--            >-->
+          <!--          </router-link>-->
           <router-link
             tag="li"
             active-class="active"

@@ -19,20 +19,20 @@
               "
             >
               <li class="ftco-animate">
-                <a ><span class="icon-twitter"></span></a>
+                <a><span class="icon-twitter"></span></a>
               </li>
               <li class="ftco-animate">
-                <a ><span class="icon-facebook"></span></a>
+                <a><span class="icon-facebook"></span></a>
               </li>
               <li class="ftco-animate">
-                <a ><span class="icon-instagram"></span></a>
+                <a><span class="icon-instagram"></span></a>
               </li>
             </ul>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 mb-5 mb-md-5">
           <div class="ftco-footer-widget mb-4">
-            <h2 class="ftco-heading-2">Recent Blog</h2>
+            <h2 class="ftco-heading-2">Recent News</h2>
             <div class="block-21 mb-4 d-flex">
               <a
                 class="blog-img mr-4"
@@ -40,21 +40,17 @@
               ></a>
               <div class="text">
                 <h3 class="heading">
-                  <a
-                    >Even the all-powerful Pointing has no control about</a
-                  >
+                  <a>Even the all-powerful Pointing has no control about</a>
                 </h3>
                 <div class="meta">
                   <div>
-                    <a
-                      ><span class="icon-calendar"></span> Sept 15, 2018</a
-                    >
+                    <a><span class="icon-calendar"></span> Sept 15, 2021</a>
                   </div>
                   <div>
-                    <a ><span class="icon-person"></span> Admin</a>
+                    <!--                    <a ><span class="icon-person"></span> Admin</a>-->
                   </div>
                   <div>
-                    <a ><span class="icon-chat"></span> 19</a>
+                    <a><span class="icon-chat"></span> 19</a>
                   </div>
                 </div>
               </div>
@@ -66,21 +62,17 @@
               ></a>
               <div class="text">
                 <h3 class="heading">
-                  <a
-                    >Even the all-powerful Pointing has no control about</a
-                  >
+                  <a>Even the all-powerful Pointing has no control about</a>
                 </h3>
                 <div class="meta">
                   <div>
-                    <a
-                      ><span class="icon-calendar"></span> Sept 15, 2018</a
-                    >
+                    <a><span class="icon-calendar"></span> Sept 15, 2021</a>
                   </div>
                   <div>
-                    <a ><span class="icon-person"></span> Admin</a>
+                    <!--                    <a ><span class="icon-person"></span> Admin</a>-->
                   </div>
                   <div>
-                    <a ><span class="icon-chat"></span> 19</a>
+                    <a><span class="icon-chat"></span> 19</a>
                   </div>
                 </div>
               </div>
@@ -91,10 +83,10 @@
           <div class="ftco-footer-widget mb-4 ml-md-4">
             <h2 class="ftco-heading-2">Services</h2>
             <ul class="list-unstyled">
-              <li><a  class="py-2 d-block">Cooked</a></li>
-              <li><a  class="py-2 d-block">Deliver</a></li>
-              <li><a  class="py-2 d-block">Quality Foods</a></li>
-              <li><a  class="py-2 d-block">Mixed</a></li>
+              <li><a class="py-2 d-block">Cooked</a></li>
+              <li><a class="py-2 d-block">Deliver</a></li>
+              <li><a class="py-2 d-block">Quality Foods</a></li>
+              <li><a class="py-2 d-block">Mixed</a></li>
             </ul>
           </div>
         </div>
@@ -142,7 +134,6 @@
 export default {
   name: "AppFooter",
   methods: {},
-
 };
 </script>
 

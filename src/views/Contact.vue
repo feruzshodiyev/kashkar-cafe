@@ -50,59 +50,59 @@
               <div class="col-md-12 mb-3">
                 <p>
                   <span>Email:</span>
-                  <a href="mailto:info@yoursite.com">info@yoursite.com</a>
+                  <a href="mailto:info@kashkarcafe.com">info@kashkarcafe.com</a>
                 </p>
               </div>
               <div class="col-md-12 mb-3">
-                <p><span>Website:</span> <a>yoursite.com</a></p>
+                <p><span>Website:</span> <a>kashkarcafe.com</a></p>
               </div>
             </div>
           </div>
           <div class="col-md-1"></div>
-          <div class="col-md-6 ftco-animate">
-            <form action="#" class="contact-form">
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <input
-                      type="text"
-                      class="form-control"
-                      placeholder="Your Name"
-                    />
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <input
-                      type="text"
-                      class="form-control"
-                      placeholder="Your Email"
-                    />
-                  </div>
-                </div>
-              </div>
-              <div class="form-group">
-                <input type="text" class="form-control" placeholder="Subject" />
-              </div>
-              <div class="form-group">
-                <textarea
-                  name=""
-                  id=""
-                  cols="30"
-                  rows="7"
-                  class="form-control"
-                  placeholder="Message"
-                ></textarea>
-              </div>
-              <div class="form-group">
-                <input
-                  type="submit"
-                  value="Send Message"
-                  class="btn btn-primary py-3 px-5"
-                />
-              </div>
-            </form>
-          </div>
+          <!--          <div class="col-md-6 ftco-animate">-->
+          <!--            <form action="#" class="contact-form">-->
+          <!--              <div class="row">-->
+          <!--                <div class="col-md-6">-->
+          <!--                  <div class="form-group">-->
+          <!--                    <input-->
+          <!--                      type="text"-->
+          <!--                      class="form-control"-->
+          <!--                      placeholder="Your Name"-->
+          <!--                    />-->
+          <!--                  </div>-->
+          <!--                </div>-->
+          <!--                <div class="col-md-6">-->
+          <!--                  <div class="form-group">-->
+          <!--                    <input-->
+          <!--                      type="text"-->
+          <!--                      class="form-control"-->
+          <!--                      placeholder="Your Email"-->
+          <!--                    />-->
+          <!--                  </div>-->
+          <!--                </div>-->
+          <!--              </div>-->
+          <!--              <div class="form-group">-->
+          <!--                <input type="text" class="form-control" placeholder="Subject" />-->
+          <!--              </div>-->
+          <!--              <div class="form-group">-->
+          <!--                <textarea-->
+          <!--                  name=""-->
+          <!--                  id=""-->
+          <!--                  cols="30"-->
+          <!--                  rows="7"-->
+          <!--                  class="form-control"-->
+          <!--                  placeholder="Message"-->
+          <!--                ></textarea>-->
+          <!--              </div>-->
+          <!--              <div class="form-group">-->
+          <!--                <input-->
+          <!--                  type="submit"-->
+          <!--                  value="Send Message"-->
+          <!--                  class="btn btn-primary py-3 px-5"-->
+          <!--                />-->
+          <!--              </div>-->
+          <!--            </form>-->
+          <!--          </div>-->
         </div>
       </div>
     </section>
