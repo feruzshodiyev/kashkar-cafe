@@ -3,7 +3,7 @@
     <section class="home-slider owl-carousel">
       <div
         class="slider-item"
-        style="background-image: url(images/bg_02.jpeg)"
+        style="background-image: url(images/bg_02.jpg)"
         data-stellar-background-ratio="0.5"
       >
         <div class="overlay"></div>
@@ -35,26 +35,26 @@
               <div class="col-md-4 d-flex ftco-animate">
                 <div class="icon"><span class="icon-phone"></span></div>
                 <div class="text">
-                  <h3>000 (123) 456 7890</h3>
+                  <h3>(718) 743-3832</h3>
                   <p>
-                    A small river named Duden flows by their place and supplies.
+                    For reservation call
                   </p>
                 </div>
               </div>
               <div class="col-md-4 d-flex ftco-animate">
                 <div class="icon"><span class="icon-my_location"></span></div>
                 <div class="text">
-                  <h3>198 West 21th Street</h3>
+                  <h3>1141 Brighton Beach Ave,</h3>
                   <p>
-                    203 Fake St. Mountain View, San Francisco, California, USA
+                    Brooklyn, NY 11235, USA
                   </p>
                 </div>
               </div>
               <div class="col-md-4 d-flex ftco-animate">
                 <div class="icon"><span class="icon-clock-o"></span></div>
                 <div class="text">
-                  <h3>Open Monday-Friday</h3>
-                  <p>8:00am - 9:00pm</p>
+                  <h3>Open Monday-Sunday</h3>
+                  <p>10:00am - 11:00pm</p>
                 </div>
               </div>
             </div>
@@ -102,8 +102,7 @@
             <span class="subheading">Discover</span>
             <h2 class="mb-4">Our Products</h2>
             <p>
-              Far far away, behind the word mountains, far from the countries
-              Vokalia and Consonantia, there live the blind texts.
+              We share the variety and wonderful taste of Uyghur cuisine with its ancient origins and we will be happy with it!
             </p>
           </div>
         </div>

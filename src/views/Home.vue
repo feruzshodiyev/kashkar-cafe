@@ -1,7 +1,7 @@
 <template>
   <div>
     <section class="home-slider owl-carousel">
-      <div class="slider-item" style="background-image: url(images/bg_01.jpeg)">
+      <div class="slider-item" style="background-image: url(images/bg_5.jpg)">
         <div class="overlay"></div>
         <div class="container">
           <div
@@ -12,8 +12,8 @@
               <span class="subheading">Welcome</span>
               <h1 class="mb-4">The Best Uzbek Dishes Testing Experience</h1>
               <p class="mb-4 mb-md-5">
-                A small river named Duden flows by their place and supplies it
-                with the necessary regelialia.
+                You can always relax in our cafe, where you will always be
+                welcome!
               </p>
               <p>
                 <router-link
@@ -32,7 +32,7 @@
         </div>
       </div>
 
-      <div class="slider-item" style="background-image: url(images/bg_02.jpeg)">
+      <div class="slider-item" style="background-image: url(images/bg_02.jpg)">
         <div class="overlay"></div>
         <div class="container">
           <div
@@ -43,8 +43,8 @@
               <span class="subheading">Welcome</span>
               <h1 class="mb-4">Amazing Taste &amp; Beautiful Place</h1>
               <p class="mb-4 mb-md-5">
-                A small river named Duden flows by their place and supplies it
-                with the necessary regelialia.
+                You can always relax in our cafe, where you will always be
+                welcome!
               </p>
               <p>
                 <router-link
@@ -63,7 +63,7 @@
         </div>
       </div>
 
-      <div class="slider-item" style="background-image: url(images/bg_03.jpeg)">
+      <div class="slider-item" style="background-image: url(images/bg_03.jpg)">
         <div class="overlay"></div>
         <div class="container">
           <div
@@ -72,10 +72,10 @@
           >
             <div class="col-md-8 col-sm-12 text-center ftco-animate">
               <span class="subheading">Welcome</span>
-              <h1 class="mb-4">Creamy Hot and Ready to Serve</h1>
+              <h1 class="mb-4">100% HALAL FOOD</h1>
               <p class="mb-4 mb-md-5">
-                A small river named Duden flows by their place and supplies it
-                with the necessary regelialia.
+                You can always relax in our cafe, where you will always be
+                welcome!
               </p>
               <p>
                 <router-link
@@ -103,26 +103,22 @@
               <div class="col-md-4 d-flex ftco-animate">
                 <div class="icon"><span class="icon-phone"></span></div>
                 <div class="text">
-                  <h3>000 (123) 456 7890</h3>
-                  <p>
-                    A small river named Duden flows by their place and supplies.
-                  </p>
+                  <h3>(718) 743-3832</h3>
+                  <p>For reservation call</p>
                 </div>
               </div>
               <div class="col-md-4 d-flex ftco-animate">
                 <div class="icon"><span class="icon-my_location"></span></div>
                 <div class="text">
-                  <h3>198 West 21th Street</h3>
-                  <p>
-                    203 Fake St. Mountain View, San Francisco, California, USA
-                  </p>
+                  <h3>1141 Brighton Beach Ave,</h3>
+                  <p>Brooklyn, NY 11235, USA</p>
                 </div>
               </div>
               <div class="col-md-4 d-flex ftco-animate">
                 <div class="icon"><span class="icon-clock-o"></span></div>
                 <div class="text">
-                  <h3>Open Monday-Friday</h3>
-                  <p>8:00am - 9:00pm</p>
+                  <h3>Open Monday-Sunday</h3>
+                  <p>10:00am - 11:00pm</p>
                 </div>
               </div>
             </div>
@@ -135,7 +131,7 @@
     <section class="ftco-about d-md-flex">
       <div
         class="one-half img"
-        style="background-image: url(images/about.jpeg)"
+        style="background-image: url(images/about.jpg)"
       ></div>
       <div class="one-half ftco-animate">
         <div class="overlap">
@@ -145,14 +141,22 @@
           </div>
           <div>
             <p>
-              On her way she met a copy. The copy warned the Little Blind Text,
-              that where it came from it would have been rewritten a thousand
-              times and everything that was left from its origin would be the
-              word "and" and the Little Blind Text should turn around and return
-              to its own, safe country. But nothing the copy said could convince
-              her and so it didn’t take long until a few insidious Copy Writers
-              ambushed her, made her drunk with Longe and Parole and dragged her
-              into their agency, where they abused her for their.
+              The capital ofthe Xinjiang Uygur Autonomous Region is Urumqi, but
+              the heart ofEast Turkestan for all Uyghurs is Kashgar. It is in
+              this city that the traditional way oflife, customs and culture
+              ofthe entire Uyghur people have been preserved for thousands of
+              years. No wonder the locals like to say that "all the best in
+              Xin-Jiang is from Kashgar." Kashgar is located where the spurs
+              ofthe Tien Shan and Kunlun meet, at the foot ofthe Pamir
+              Mountains. Kashgar is not just the heart ofXinjiang, it is one
+              ofthe oldest cities in East Turkestan, located at the intersection
+              ofthe Great Silk Road. Kashkar cafe has been operating for several
+              years since 2013. Cafe "Kashkar" is a piece ofUighurs who lived in
+              the city of Kashgar. And a dynasty ofcooks handed down to
+              generations through the centuries. Ethnically atmospheric yet cozy
+              with good homemade food. Here you can have a bite to eat with
+              friends and family. Pleasant atmosphere, delicious cuisine and,
+              most importantly, comfort.
             </p>
           </div>
         </div>
@@ -177,10 +181,7 @@
               </div>
               <div class="media-body">
                 <h3 class="heading">Easy to Order</h3>
-                <p>
-                  Even the all-powerful Pointing has no control about the blind
-                  texts it is an almost unorthographic.
-                </p>
+                <p>Choose dishes from the menu page and order easily!</p>
               </div>
             </div>
           </div>
@@ -199,10 +200,7 @@
               </div>
               <div class="media-body">
                 <h3 class="heading">Fastest Delivery</h3>
-                <p>
-                  Even the all-powerful Pointing has no control about the blind
-                  texts it is an almost unorthographic.
-                </p>
+                <p>Start eating your meal shortly after ordering!</p>
               </div>
             </div>
           </div>
@@ -221,10 +219,7 @@
               </div>
               <div class="media-body">
                 <h3 class="heading">Quality Food</h3>
-                <p>
-                  Even the all-powerful Pointing has no control about the blind
-                  texts it is an almost unorthographic.
-                </p>
+                <p>Enjoy quality food!</p>
               </div>
             </div>
           </div>
@@ -240,10 +235,7 @@
               <span class="subheading">Discover</span>
               <h2 class="mb-4">Our Menu</h2>
               <p class="mb-4">
-                Far far away, behind the word mountains, far from the countries
-                Vokalia and Consonantia, there live the blind texts. Separated
-                they live in Bookmarksgrove right at the coast of the Semantics,
-                a large language ocean.
+                Enjoy every wonderful and varied dish on the menu!
               </p>
               <p>
                 <router-link
@@ -322,10 +314,7 @@
           <div class="col-md-7 heading-section ftco-animate text-center">
             <span class="subheading">Discover</span>
             <h2 class="mb-4">Best Seller Dishes</h2>
-            <p>
-              Far far away, behind the word mountains, far from the countries
-              Vokalia and Consonantia, there live the blind texts.
-            </p>
+            <p>Enjoy every wonderful and varied dish on the menu!</p>
           </div>
         </div>
         <div class="row">
@@ -337,9 +326,7 @@
               ></a>
               <div class="text text-center pt-4">
                 <h3><a>Sesame Beef and Broccoli</a></h3>
-                <p>
-                  A small river named Duden flows by their place and supplies
-                </p>
+                <p>Each dish has a unique taste and a great look.</p>
                 <!--                <p class="price"><span>$5.90</span></p>-->
                 <!--                <p>-->
                 <!--                  <a  class="btn btn-primary btn-outline-primary"-->
@@ -357,9 +344,7 @@
               ></a>
               <div class="text text-center pt-4">
                 <h3><a>Sesame Beef and Broccoli</a></h3>
-                <p>
-                  A small river named Duden flows by their place and supplies
-                </p>
+                <p>Each dish has a unique taste and a great look.</p>
                 <!--                <p class="price"><span>$5.90</span></p>-->
                 <!--                <p>-->
                 <!--                  <a  class="btn btn-primary btn-outline-primary"-->
@@ -377,9 +362,7 @@
               ></a>
               <div class="text text-center pt-4">
                 <h3><a>Sesame Beef and Broccoli</a></h3>
-                <p>
-                  A small river named Duden flows by their place and supplies
-                </p>
+                <p>Each dish has a unique taste and a great look.</p>
                 <!--                <p class="price"><span>$5.90</span></p>-->
                 <!--                <p>-->
                 <!--                  <a  class="btn btn-primary btn-outline-primary"-->
@@ -397,9 +380,7 @@
               ></a>
               <div class="text text-center pt-4">
                 <h3><a>Sesame Beef and Broccoli</a></h3>
-                <p>
-                  A small river named Duden flows by their place and supplies
-                </p>
+                <p>Each dish has a unique taste and a great look.</p>
                 <!--                <p class="price"><span>$5.90</span></p>-->
                 <!--                <p>-->
                 <!--                  <a  class="btn btn-primary btn-outline-primary"-->
@@ -498,141 +479,135 @@
           <div class="col-md-7 heading-section text-center ftco-animate">
             <span class="subheading">Discover</span>
             <h2 class="mb-4">Our Products</h2>
-            <p>
-              Far far away, behind the word mountains, far from the countries
-              Vokalia and Consonantia, there live the blind texts.
-            </p>
+            <p>Enjoy every wonderful and varied dish on the menu!</p>
           </div>
         </div>
         <MealSectionTabs :is-home="true" />
       </div>
     </section>
 
-    <section
-      class="ftco-section img"
-      id="ftco-testimony"
-      style="background-image: url(images/bg_01.jpeg)"
-      data-stellar-background-ratio="0.5"
-    >
-      <div class="overlay"></div>
-      <div class="container">
-        <div class="row justify-content-center mb-5">
-          <div class="col-md-7 heading-section text-center ftco-animate">
-            <span class="subheading">Testimony</span>
-            <h2 class="mb-4">Customers Says</h2>
-            <p>
-              Far far away, behind the word mountains, far from the countries
-              Vokalia and Consonantia, there live the blind texts.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="container-wrap">
-        <div class="row d-flex no-gutters">
-          <div class="col-lg align-self-sm-end ftco-animate">
-            <div class="testimony">
-              <blockquote>
-                <p>
-                  &ldquo;Even the all-powerful Pointing has no control about the
-                  blind texts it is an almost unorthographic life One day
-                  however a small.&rdquo;
-                </p>
-              </blockquote>
-              <div class="author d-flex mt-4">
-                <div class="image mr-3 align-self-center">
-                  <img src="images/person_2.jpg" alt="" />
-                </div>
-                <div class="name align-self-center">
-                  Louise Kelly
-                  <span class="position">Illustrator Designer</span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg align-self-sm-end">
-            <div class="testimony overlay">
-              <blockquote>
-                <p>
-                  &ldquo;Even the all-powerful Pointing has no control about the
-                  blind texts it is an almost unorthographic life One day
-                  however a small line of blind text by the name of Lorem Ipsum
-                  decided to leave for the far World of Grammar.&rdquo;
-                </p>
-              </blockquote>
-              <div class="author d-flex mt-4">
-                <div class="image mr-3 align-self-center">
-                  <img src="images/person_2.jpg" alt="" />
-                </div>
-                <div class="name align-self-center">
-                  Louise Kelly
-                  <span class="position">Illustrator Designer</span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg align-self-sm-end ftco-animate">
-            <div class="testimony">
-              <blockquote>
-                <p>
-                  &ldquo;Even the all-powerful Pointing has no control about the
-                  blind texts it is an almost unorthographic life One day
-                  however a small line of blind text by the name. &rdquo;
-                </p>
-              </blockquote>
-              <div class="author d-flex mt-4">
-                <div class="image mr-3 align-self-center">
-                  <img src="images/person_3.jpg" alt="" />
-                </div>
-                <div class="name align-self-center">
-                  Louise Kelly
-                  <span class="position">Illustrator Designer</span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg align-self-sm-end">
-            <div class="testimony overlay">
-              <blockquote>
-                <p>
-                  &ldquo;Even the all-powerful Pointing has no control about the
-                  blind texts it is an almost unorthographic life One day
-                  however.&rdquo;
-                </p>
-              </blockquote>
-              <div class="author d-flex mt-4">
-                <div class="image mr-3 align-self-center">
-                  <img src="images/person_2.jpg" alt="" />
-                </div>
-                <div class="name align-self-center">
-                  Louise Kelly
-                  <span class="position">Illustrator Designer</span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg align-self-sm-end ftco-animate">
-            <div class="testimony">
-              <blockquote>
-                <p>
-                  &ldquo;Even the all-powerful Pointing has no control about the
-                  blind texts it is an almost unorthographic life One day
-                  however a small line of blind text by the name. &rdquo;
-                </p>
-              </blockquote>
-              <div class="author d-flex mt-4">
-                <div class="image mr-3 align-self-center">
-                  <img src="images/person_3.jpg" alt="" />
-                </div>
-                <div class="name align-self-center">
-                  Louise Kelly
-                  <span class="position">Illustrator Designer</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+    <!--    <section-->
+    <!--      class="ftco-section img"-->
+    <!--      id="ftco-testimony"-->
+    <!--      style="background-image: url(images/bg_01.jpeg)"-->
+    <!--      data-stellar-background-ratio="0.5"-->
+    <!--    >-->
+    <!--      <div class="overlay"></div>-->
+    <!--      <div class="container">-->
+    <!--        <div class="row justify-content-center mb-5">-->
+    <!--          <div class="col-md-7 heading-section text-center ftco-animate">-->
+    <!--            <span class="subheading">Testimony</span>-->
+    <!--            <h2 class="mb-4">Customers Says</h2>-->
+    <!--            <p>We want every customer to be happy with us</p>-->
+    <!--          </div>-->
+    <!--        </div>-->
+    <!--      </div>-->
+    <!--      <div class="container-wrap">-->
+    <!--        <div class="row d-flex no-gutters">-->
+    <!--          <div class="col-lg align-self-sm-end ftco-animate">-->
+    <!--            <div class="testimony">-->
+    <!--              <blockquote>-->
+    <!--                <p>-->
+    <!--                  &ldquo;Even the all-powerful Pointing has no control about the-->
+    <!--                  blind texts it is an almost unorthographic life One day-->
+    <!--                  however a small.&rdquo;-->
+    <!--                </p>-->
+    <!--              </blockquote>-->
+    <!--              <div class="author d-flex mt-4">-->
+    <!--                <div class="image mr-3 align-self-center">-->
+    <!--                  <img src="images/person_2.jpg" alt="" />-->
+    <!--                </div>-->
+    <!--                <div class="name align-self-center">-->
+    <!--                  Louise Kelly-->
+    <!--                  <span class="position">Illustrator Designer</span>-->
+    <!--                </div>-->
+    <!--              </div>-->
+    <!--            </div>-->
+    <!--          </div>-->
+    <!--          <div class="col-lg align-self-sm-end">-->
+    <!--            <div class="testimony overlay">-->
+    <!--              <blockquote>-->
+    <!--                <p>-->
+    <!--                  &ldquo;Even the all-powerful Pointing has no control about the-->
+    <!--                  blind texts it is an almost unorthographic life One day-->
+    <!--                  however a small line of blind text by the name of Lorem Ipsum-->
+    <!--                  decided to leave for the far World of Grammar.&rdquo;-->
+    <!--                </p>-->
+    <!--              </blockquote>-->
+    <!--              <div class="author d-flex mt-4">-->
+    <!--                <div class="image mr-3 align-self-center">-->
+    <!--                  <img src="images/person_2.jpg" alt="" />-->
+    <!--                </div>-->
+    <!--                <div class="name align-self-center">-->
+    <!--                  Louise Kelly-->
+    <!--                  <span class="position">Illustrator Designer</span>-->
+    <!--                </div>-->
+    <!--              </div>-->
+    <!--            </div>-->
+    <!--          </div>-->
+    <!--          <div class="col-lg align-self-sm-end ftco-animate">-->
+    <!--            <div class="testimony">-->
+    <!--              <blockquote>-->
+    <!--                <p>-->
+    <!--                  &ldquo;Even the all-powerful Pointing has no control about the-->
+    <!--                  blind texts it is an almost unorthographic life One day-->
+    <!--                  however a small line of blind text by the name. &rdquo;-->
+    <!--                </p>-->
+    <!--              </blockquote>-->
+    <!--              <div class="author d-flex mt-4">-->
+    <!--                <div class="image mr-3 align-self-center">-->
+    <!--                  <img src="images/person_3.jpg" alt="" />-->
+    <!--                </div>-->
+    <!--                <div class="name align-self-center">-->
+    <!--                  Louise Kelly-->
+    <!--                  <span class="position">Illustrator Designer</span>-->
+    <!--                </div>-->
+    <!--              </div>-->
+    <!--            </div>-->
+    <!--          </div>-->
+    <!--          <div class="col-lg align-self-sm-end">-->
+    <!--            <div class="testimony overlay">-->
+    <!--              <blockquote>-->
+    <!--                <p>-->
+    <!--                  &ldquo;Even the all-powerful Pointing has no control about the-->
+    <!--                  blind texts it is an almost unorthographic life One day-->
+    <!--                  however.&rdquo;-->
+    <!--                </p>-->
+    <!--              </blockquote>-->
+    <!--              <div class="author d-flex mt-4">-->
+    <!--                <div class="image mr-3 align-self-center">-->
+    <!--                  <img src="images/person_2.jpg" alt="" />-->
+    <!--                </div>-->
+    <!--                <div class="name align-self-center">-->
+    <!--                  Louise Kelly-->
+    <!--                  <span class="position">Illustrator Designer</span>-->
+    <!--                </div>-->
+    <!--              </div>-->
+    <!--            </div>-->
+    <!--          </div>-->
+    <!--          <div class="col-lg align-self-sm-end ftco-animate">-->
+    <!--            <div class="testimony">-->
+    <!--              <blockquote>-->
+    <!--                <p>-->
+    <!--                  &ldquo;Even the all-powerful Pointing has no control about the-->
+    <!--                  blind texts it is an almost unorthographic life One day-->
+    <!--                  however a small line of blind text by the name. &rdquo;-->
+    <!--                </p>-->
+    <!--              </blockquote>-->
+    <!--              <div class="author d-flex mt-4">-->
+    <!--                <div class="image mr-3 align-self-center">-->
+    <!--                  <img src="images/person_3.jpg" alt="" />-->
+    <!--                </div>-->
+    <!--                <div class="name align-self-center">-->
+    <!--                  Louise Kelly-->
+    <!--                  <span class="position">Illustrator Designer</span>-->
+    <!--                </div>-->
+    <!--              </div>-->
+    <!--            </div>-->
+    <!--          </div>-->
+    <!--        </div>-->
+    <!--      </div>-->
+    <!--    </section>-->
 
     <!--    <section class="ftco-section">-->
     <!--      <div class="container">-->

@@ -3235,6 +3235,9 @@ input[type="button"].btn-block {
 
 .tab-content > .tab-pane {
   display: none; }
+.tab-content{
+  width: 100%;
+}
 
 .tab-content > .active {
   display: block; }
@@ -8739,7 +8742,7 @@ textarea.form-control {
 .img,
 .blog-img,
 .user-img {
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center center; }
 

@@ -3,7 +3,7 @@
     <section class="home-slider owl-carousel">
       <div
         class="slider-item"
-        style="background-image: url(images/bg_02.jpeg)"
+        style="background-image: url(images/bg_02.jpg)"
         data-stellar-background-ratio="0.5"
       >
         <div class="overlay"></div>
@@ -37,24 +37,25 @@
               </div>
               <div class="col-md-12 mb-3">
                 <p>
-                  <span>Address:</span> 198 West 21th Street, Suite 721 New York
-                  NY 10016
+                  <span>Address:</span> 1141 Brighton Beach Ave, Brooklyn, NY
+                  11235, USA
                 </p>
               </div>
               <div class="col-md-12 mb-3">
                 <p>
                   <span>Phone:</span>
-                  <a href="tel://1234567920">+ 1235 2355 98</a>
+                  <a href="tel://1234567920">
+                    (718) 743-3832</a>
                 </p>
               </div>
               <div class="col-md-12 mb-3">
                 <p>
                   <span>Email:</span>
-                  <a href="mailto:info@kashkarcafe.com">info@kashkarcafe.com</a>
+                  <a href="mailto:info@kashkarcafe.com">infokashkarcafe@gmail.com</a>
                 </p>
               </div>
               <div class="col-md-12 mb-3">
-                <p><span>Website:</span> <a>kashkarcafe.com</a></p>
+                <p><span>Website:</span> <a>kashkar.cafe</a></p>
               </div>
             </div>
           </div>

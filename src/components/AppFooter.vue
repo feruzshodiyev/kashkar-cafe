@@ -7,8 +7,8 @@
           <div class="ftco-footer-widget mb-4">
             <h2 class="ftco-heading-2">About Us</h2>
             <p>
-              Far far away, behind the word mountains, far from the countries
-              Vokalia and Consonantia, there live the blind texts.
+              We share the variety and wonderful taste of Uyghur cuisine with
+              its ancient origins and we will be happy with it!
             </p>
             <ul
               class="
@@ -98,20 +98,19 @@
                 <li>
                   <span class="icon icon-map-marker"></span
                   ><span class="text"
-                    >203 Fake St. Mountain View, San Francisco, California,
-                    USA</span
+                    >1141 Brighton Beach Ave, Brooklyn, NY 11235, USA</span
                   >
                 </li>
                 <li>
                   <a
                     ><span class="icon icon-phone"></span
-                    ><span class="text">+2 392 3929 210</span></a
+                    ><span class="text"> (718) 743-3832</span></a
                   >
                 </li>
                 <li>
                   <a
                     ><span class="icon icon-envelope"></span
-                    ><span class="text">info@kashkar.com</span></a
+                    ><span class="text">infokashkarcafe@gmail.com</span></a
                   >
                 </li>
               </ul>

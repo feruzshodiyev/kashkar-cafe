@@ -3,7 +3,7 @@
     <section class="home-slider owl-carousel">
       <div
         class="slider-item"
-        style="background-image: url(images/bg_02.jpeg)"
+        style="background-image: url(images/bg_02.jpg)"
         data-stellar-background-ratio="0.5"
       >
         <div class="overlay"></div>
@@ -43,14 +43,24 @@
               which roasted parts of sentences fly into your mouth.
             </p>
             <p>
-              On her way she met a copy. The copy warned the Little Blind Text,
-              that where it came from it would have been rewritten a thousand
-              times and everything that was left from its origin would be the
-              word "and" and the Little Blind Text should turn around and return
-              to its own, safe country. But nothing the copy said could convince
-              her and so it didn’t take long until a few insidious Copy Writers
-              ambushed her, made her drunk with Longe and Parole and dragged her
-              into their agency, where they abused her for their.
+              Kashgar or Kashi is an oasis city with approximately 350.000
+              residents in the western part of the Xinjiang UyghurAutonomous
+              Region of the People’s Republic of China. Kashgar is the
+              administrative centre of Kashgar Prefecture which has an area of
+              162.000 km and a population of approximately 3.5 million. The city
+              covers an area of 15 km. The altitude averages 1.289 m/4.282 ft.
+              above sea level. The city is located in the western extremity of
+              China. The earliest mention of Kashgar occurs when the Chinese Han
+              Dynasty envoy traveled the Northern Silk Road to explore lands to
+              the west. Another early mention of Kashgar is during the Former
+              Han (aslo known as the Western Han Dynasty), when in 76 BC the
+              Chinese conqured the Xionganu, Yutian (Khotan), Sulei (Kashgar),
+              and a group of states in the Tarim Basin Almost up to the foot of
+              the Tian Shan Mountains. The Uyghurs employed an alphabet based
+              upon the Syriac and borrowed from the Nestorian, but after
+              converting to Islam widely used also an Arabic script. They spoke
+              a dialect of Turkic claimed to be preserved in the KudatkuBilik, a
+              moral treatise composed in 1065.
             </p>
             <div class="row mt-4">
               <div class="col-md-6">
@@ -118,8 +128,8 @@
             <span class="subheading">Discover</span>
             <h2 class="mb-4">Related products</h2>
             <p>
-              Far far away, behind the word mountains, far from the countries
-              Vokalia and Consonantia, there live the blind texts.
+              We share the variety and wonderful taste of Uyghur cuisine with
+              its ancient origins and we will be happy with it!
             </p>
           </div>
         </div>
@@ -127,20 +137,17 @@
           <div class="col-md-3">
             <div class="menu-entry">
               <a
-
                 class="img"
                 style="background-image: url(images/menu-1.jpg)"
               ></a>
               <div class="text text-center pt-4">
-                <h3><a >Coffee Capuccino</a></h3>
+                <h3><a>Coffee Capuccino</a></h3>
                 <p>
                   A small river named Duden flows by their place and supplies
                 </p>
                 <p class="price"><span>$5.90</span></p>
                 <p>
-                  <a  class="btn btn-primary btn-outline-primary"
-                    >Add to Cart</a
-                  >
+                  <a class="btn btn-primary btn-outline-primary">Add to Cart</a>
                 </p>
               </div>
             </div>
@@ -148,20 +155,17 @@
           <div class="col-md-3">
             <div class="menu-entry">
               <a
-
                 class="img"
                 style="background-image: url(images/menu-2.jpg)"
               ></a>
               <div class="text text-center pt-4">
-                <h3><a >Coffee Capuccino</a></h3>
+                <h3><a>Coffee Capuccino</a></h3>
                 <p>
                   A small river named Duden flows by their place and supplies
                 </p>
                 <p class="price"><span>$5.90</span></p>
                 <p>
-                  <a  class="btn btn-primary btn-outline-primary"
-                    >Add to Cart</a
-                  >
+                  <a class="btn btn-primary btn-outline-primary">Add to Cart</a>
                 </p>
               </div>
             </div>
@@ -169,20 +173,17 @@
           <div class="col-md-3">
             <div class="menu-entry">
               <a
-
                 class="img"
                 style="background-image: url(images/menu-3.jpg)"
               ></a>
               <div class="text text-center pt-4">
-                <h3><a >Coffee Capuccino</a></h3>
+                <h3><a>Coffee Capuccino</a></h3>
                 <p>
                   A small river named Duden flows by their place and supplies
                 </p>
                 <p class="price"><span>$5.90</span></p>
                 <p>
-                  <a  class="btn btn-primary btn-outline-primary"
-                    >Add to Cart</a
-                  >
+                  <a class="btn btn-primary btn-outline-primary">Add to Cart</a>
                 </p>
               </div>
             </div>
@@ -190,20 +191,17 @@
           <div class="col-md-3">
             <div class="menu-entry">
               <a
-
                 class="img"
                 style="background-image: url(images/menu-4.jpg)"
               ></a>
               <div class="text text-center pt-4">
-                <h3><a >Coffee Capuccino</a></h3>
+                <h3><a>Coffee Capuccino</a></h3>
                 <p>
                   A small river named Duden flows by their place and supplies
                 </p>
                 <p class="price"><span>$5.90</span></p>
                 <p>
-                  <a  class="btn btn-primary btn-outline-primary"
-                    >Add to Cart</a
-                  >
+                  <a class="btn btn-primary btn-outline-primary">Add to Cart</a>
                 </p>
               </div>
             </div>

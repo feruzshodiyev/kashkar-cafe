@@ -1,6 +1,6 @@
 module.exports = {
   devServer: {
     port: 3000,
-    // proxy: "https://kashkarapi.pythonanywhere.com",
+    proxy: "http://137.184.150.98",
   },
 };

@@ -3,7 +3,7 @@
     <section class="home-slider owl-carousel">
       <div
         class="slider-item"
-        style="background-image: url(images/bg_02.jpeg)"
+        style="background-image: url(images/bg_02.jpg)"
         data-stellar-background-ratio="0.5"
       >
         <div class="overlay"></div>
@@ -30,7 +30,7 @@
     <section class="ftco-about d-md-flex">
       <div
         class="one-half img"
-        style="background-image: url(images/about.jpeg)"
+        style="background-image: url(images/about.jpg)"
       ></div>
       <div class="one-half ftco-animate">
         <div class="overlap">
@@ -40,145 +40,153 @@
           </div>
           <div>
             <p>
-              On her way she met a copy. The copy warned the Little Blind Text,
-              that where it came from it would have been rewritten a thousand
-              times and everything that was left from its origin would be the
-              word "and" and the Little Blind Text should turn around and return
-              to its own, safe country. But nothing the copy said could convince
-              her and so it didn’t take long until a few insidious Copy Writers
-              ambushed her, made her drunk with Longe and Parole and dragged her
-              into their agency, where they abused her for their.
+              The capital ofthe Xinjiang Uygur Autonomous Region is Urumqi, but
+              the heart ofEast Turkestan for all Uyghurs is Kashgar. It is in
+              this city that the traditional way oflife, customs and culture
+              ofthe entire Uyghur people have been preserved for thousands of
+              years. No wonder the locals like to say that "all the best in
+              Xin-Jiang is from Kashgar." Kashgar is located where the spurs
+              ofthe Tien Shan and Kunlun meet, at the foot ofthe Pamir
+              Mountains. Kashgar is not just the heart ofXinjiang, it is one
+              ofthe oldest cities in East Turkestan, located at the intersection
+              ofthe Great Silk Road. Kashkar cafe has been operating for several
+              years since 2013. Cafe "Kashkar" is a piece ofUighurs who lived in
+              the city of Kashgar. And a dynasty ofcooks handed down to
+              generations through the centuries. Ethnically atmospheric yet cozy
+              with good homemade food. Here you can have a bite to eat with
+              friends and family. Pleasant atmosphere, delicious cuisine and,
+              most importantly, comfort.
             </p>
           </div>
         </div>
       </div>
     </section>
 
-    <section
-      class="ftco-section img"
-      id="ftco-testimony"
-      style="background-image: url(images/bg_01.jpeg)"
-      data-stellar-background-ratio="0.5"
-    >
-      <div class="overlay"></div>
-      <div class="container">
-        <div class="row justify-content-center mb-5">
-          <div class="col-md-7 heading-section text-center ftco-animate">
-            <span class="subheading">Testimony</span>
-            <h2 class="mb-4">Customers Says</h2>
-            <p>
-              Far far away, behind the word mountains, far from the countries
-              Vokalia and Consonantia, there live the blind texts.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="container-wrap">
-        <div class="row d-flex no-gutters">
-          <div class="col-lg align-self-sm-end">
-            <div class="testimony">
-              <blockquote>
-                <p>
-                  &ldquo;Even the all-powerful Pointing has no control about the
-                  blind texts it is an almost unorthographic life One day
-                  however a small.&rdquo;
-                </p>
-              </blockquote>
-              <div class="author d-flex mt-4">
-                <div class="image mr-3 align-self-center">
-                  <img src="images/person_1.jpg" alt="" />
-                </div>
-                <div class="name align-self-center">
-                  Louise Kelly
-                  <span class="position">Illustrator Designer</span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg align-self-sm-end">
-            <div class="testimony overlay">
-              <blockquote>
-                <p>
-                  &ldquo;Even the all-powerful Pointing has no control about the
-                  blind texts it is an almost unorthographic life One day
-                  however a small line of blind text by the name of Lorem Ipsum
-                  decided to leave for the far World of Grammar.&rdquo;
-                </p>
-              </blockquote>
-              <div class="author d-flex mt-4">
-                <div class="image mr-3 align-self-center">
-                  <img src="images/person_2.jpg" alt="" />
-                </div>
-                <div class="name align-self-center">
-                  Louise Kelly
-                  <span class="position">Illustrator Designer</span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg align-self-sm-end">
-            <div class="testimony">
-              <blockquote>
-                <p>
-                  &ldquo;Even the all-powerful Pointing has no control about the
-                  blind texts it is an almost unorthographic life One day
-                  however a small line of blind text by the name. &rdquo;
-                </p>
-              </blockquote>
-              <div class="author d-flex mt-4">
-                <div class="image mr-3 align-self-center">
-                  <img src="images/person_3.jpg" alt="" />
-                </div>
-                <div class="name align-self-center">
-                  Louise Kelly
-                  <span class="position">Illustrator Designer</span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg align-self-sm-end">
-            <div class="testimony overlay">
-              <blockquote>
-                <p>
-                  &ldquo;Even the all-powerful Pointing has no control about the
-                  blind texts it is an almost unorthographic life One day
-                  however.&rdquo;
-                </p>
-              </blockquote>
-              <div class="author d-flex mt-4">
-                <div class="image mr-3 align-self-center">
-                  <img src="images/person_2.jpg" alt="" />
-                </div>
-                <div class="name align-self-center">
-                  Louise Kelly
-                  <span class="position">Illustrator Designer</span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg align-self-sm-end">
-            <div class="testimony">
-              <blockquote>
-                <p>
-                  &ldquo;Even the all-powerful Pointing has no control about the
-                  blind texts it is an almost unorthographic life One day
-                  however a small line of blind text by the name. &rdquo;
-                </p>
-              </blockquote>
-              <div class="author d-flex mt-4">
-                <div class="image mr-3 align-self-center">
-                  <img src="images/person_3.jpg" alt="" />
-                </div>
-                <div class="name align-self-center">
-                  Louise Kelly
-                  <span class="position">Illustrator Designer</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+    <!--    <section-->
+    <!--      class="ftco-section img"-->
+    <!--      id="ftco-testimony"-->
+    <!--      style="background-image: url(images/bg_01.jpeg)"-->
+    <!--      data-stellar-background-ratio="0.5"-->
+    <!--    >-->
+    <!--      <div class="overlay"></div>-->
+    <!--      <div class="container">-->
+    <!--        <div class="row justify-content-center mb-5">-->
+    <!--          <div class="col-md-7 heading-section text-center ftco-animate">-->
+    <!--            <span class="subheading">Testimony</span>-->
+    <!--            <h2 class="mb-4">Customers Says</h2>-->
+    <!--            <p>-->
+    <!--              Far far away, behind the word mountains, far from the countries-->
+    <!--              Vokalia and Consonantia, there live the blind texts.-->
+    <!--            </p>-->
+    <!--          </div>-->
+    <!--        </div>-->
+    <!--      </div>-->
+    <!--      <div class="container-wrap">-->
+    <!--        <div class="row d-flex no-gutters">-->
+    <!--          <div class="col-lg align-self-sm-end">-->
+    <!--            <div class="testimony">-->
+    <!--              <blockquote>-->
+    <!--                <p>-->
+    <!--                  &ldquo;Even the all-powerful Pointing has no control about the-->
+    <!--                  blind texts it is an almost unorthographic life One day-->
+    <!--                  however a small.&rdquo;-->
+    <!--                </p>-->
+    <!--              </blockquote>-->
+    <!--              <div class="author d-flex mt-4">-->
+    <!--                <div class="image mr-3 align-self-center">-->
+    <!--                  <img src="images/person_1.jpg" alt="" />-->
+    <!--                </div>-->
+    <!--                <div class="name align-self-center">-->
+    <!--                  Louise Kelly-->
+    <!--                  <span class="position">Illustrator Designer</span>-->
+    <!--                </div>-->
+    <!--              </div>-->
+    <!--            </div>-->
+    <!--          </div>-->
+    <!--          <div class="col-lg align-self-sm-end">-->
+    <!--            <div class="testimony overlay">-->
+    <!--              <blockquote>-->
+    <!--                <p>-->
+    <!--                  &ldquo;Even the all-powerful Pointing has no control about the-->
+    <!--                  blind texts it is an almost unorthographic life One day-->
+    <!--                  however a small line of blind text by the name of Lorem Ipsum-->
+    <!--                  decided to leave for the far World of Grammar.&rdquo;-->
+    <!--                </p>-->
+    <!--              </blockquote>-->
+    <!--              <div class="author d-flex mt-4">-->
+    <!--                <div class="image mr-3 align-self-center">-->
+    <!--                  <img src="images/person_2.jpg" alt="" />-->
+    <!--                </div>-->
+    <!--                <div class="name align-self-center">-->
+    <!--                  Louise Kelly-->
+    <!--                  <span class="position">Illustrator Designer</span>-->
+    <!--                </div>-->
+    <!--              </div>-->
+    <!--            </div>-->
+    <!--          </div>-->
+    <!--          <div class="col-lg align-self-sm-end">-->
+    <!--            <div class="testimony">-->
+    <!--              <blockquote>-->
+    <!--                <p>-->
+    <!--                  &ldquo;Even the all-powerful Pointing has no control about the-->
+    <!--                  blind texts it is an almost unorthographic life One day-->
+    <!--                  however a small line of blind text by the name. &rdquo;-->
+    <!--                </p>-->
+    <!--              </blockquote>-->
+    <!--              <div class="author d-flex mt-4">-->
+    <!--                <div class="image mr-3 align-self-center">-->
+    <!--                  <img src="images/person_3.jpg" alt="" />-->
+    <!--                </div>-->
+    <!--                <div class="name align-self-center">-->
+    <!--                  Louise Kelly-->
+    <!--                  <span class="position">Illustrator Designer</span>-->
+    <!--                </div>-->
+    <!--              </div>-->
+    <!--            </div>-->
+    <!--          </div>-->
+    <!--          <div class="col-lg align-self-sm-end">-->
+    <!--            <div class="testimony overlay">-->
+    <!--              <blockquote>-->
+    <!--                <p>-->
+    <!--                  &ldquo;Even the all-powerful Pointing has no control about the-->
+    <!--                  blind texts it is an almost unorthographic life One day-->
+    <!--                  however.&rdquo;-->
+    <!--                </p>-->
+    <!--              </blockquote>-->
+    <!--              <div class="author d-flex mt-4">-->
+    <!--                <div class="image mr-3 align-self-center">-->
+    <!--                  <img src="images/person_2.jpg" alt="" />-->
+    <!--                </div>-->
+    <!--                <div class="name align-self-center">-->
+    <!--                  Louise Kelly-->
+    <!--                  <span class="position">Illustrator Designer</span>-->
+    <!--                </div>-->
+    <!--              </div>-->
+    <!--            </div>-->
+    <!--          </div>-->
+    <!--          <div class="col-lg align-self-sm-end">-->
+    <!--            <div class="testimony">-->
+    <!--              <blockquote>-->
+    <!--                <p>-->
+    <!--                  &ldquo;Even the all-powerful Pointing has no control about the-->
+    <!--                  blind texts it is an almost unorthographic life One day-->
+    <!--                  however a small line of blind text by the name. &rdquo;-->
+    <!--                </p>-->
+    <!--              </blockquote>-->
+    <!--              <div class="author d-flex mt-4">-->
+    <!--                <div class="image mr-3 align-self-center">-->
+    <!--                  <img src="images/person_3.jpg" alt="" />-->
+    <!--                </div>-->
+    <!--                <div class="name align-self-center">-->
+    <!--                  Louise Kelly-->
+    <!--                  <span class="position">Illustrator Designer</span>-->
+    <!--                </div>-->
+    <!--              </div>-->
+    <!--            </div>-->
+    <!--          </div>-->
+    <!--        </div>-->
+    <!--      </div>-->
+    <!--    </section>-->
 
     <section class="ftco-section">
       <div class="container">
@@ -188,10 +196,8 @@
               <span class="subheading">Discover</span>
               <h2 class="mb-4">Our Menu</h2>
               <p class="mb-4">
-                Far far away, behind the word mountains, far from the countries
-                Vokalia and Consonantia, there live the blind texts. Separated
-                they live in Bookmarksgrove right at the coast of the Semantics,
-                a large language ocean.
+                We share the variety and wonderful taste of Uyghur cuisine with
+                its ancient origins and we will be happy with it!
               </p>
               <p>
                 <router-link
@@ -245,7 +251,7 @@
     <section
       class="ftco-counter ftco-bg-dark img"
       id="section-counter"
-      style="background-image: url(images/bg_02.jpeg)"
+      style="background-image: url(images/bg_02.jpg)"
       data-stellar-background-ratio="0.5"
     >
       <div class="overlay"></div>
@@ -267,8 +273,8 @@
                     <div class="icon">
                       <span class="flaticon-coffee-cup"></span>
                     </div>
-                    <strong class="number" data-number="100">0</strong>
-                    <span>Delicious Dishes</span>
+                    <strong class="number" data-number="1">0</strong>
+                    <span>Little money</span>
                   </div>
                 </div>
               </div>

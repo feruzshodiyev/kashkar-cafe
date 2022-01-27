@@ -3,7 +3,7 @@
     <section class="home-slider owl-carousel">
       <div
         class="slider-item"
-        style="background-image: url(images/bg_02.jpeg)"
+        style="background-image: url(images/bg_02.jpg)"
         data-stellar-background-ratio="0.5"
       >
         <div class="overlay"></div>
@@ -42,8 +42,7 @@
               <div class="media-body">
                 <h3 class="heading">Easy to Order</h3>
                 <p>
-                  Even the all-powerful Pointing has no control about the blind
-                  texts it is an almost unorthographic.
+                  Choose dishes from the menu page and order easily!
                 </p>
               </div>
             </div>
@@ -64,8 +63,7 @@
               <div class="media-body">
                 <h3 class="heading">Fastest Delivery</h3>
                 <p>
-                  Even the all-powerful Pointing has no control about the blind
-                  texts it is an almost unorthographic.
+                  Start eating your meal shortly after ordering!
                 </p>
               </div>
             </div>
@@ -86,8 +84,7 @@
               <div class="media-body">
                 <h3 class="heading">Quality Food</h3>
                 <p>
-                  Even the all-powerful Pointing has no control about the blind
-                  texts it is an almost unorthographic.
+                  Enjoy quality food!
                 </p>
               </div>
             </div>
